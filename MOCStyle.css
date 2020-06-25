@@ -1,0 +1,61 @@
+#main {
+  background: powderblue;
+}
+
+h1 {
+  color: DarkBlue;
+  background-color: powderblue;
+  text-align: center;
+  font-family: Arial;
+  font-size: 80px;
+}
+
+p {
+  color: DarkBlue;
+  text-align: center;
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+}
+
+#headline {
+  color: DarkBlue;
+  text-align: center;
+  font-family: Arial;
+  font-size: 25px;
+}
+
+li {
+  color: DarkBlue;
+  text-align: left;
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+}
+
+figcaption {
+  color: DarkBlue;
+  text-align: center;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+footer {
+  color: DarkGreen;
+  text-align: center;
+  font-family: Arial;
+  font-size: 25px;
+}
