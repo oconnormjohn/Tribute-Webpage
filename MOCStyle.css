@@ -38,7 +38,7 @@ figcaption {
   font-size: 15px;
 }
 
-img {
+#image {
   max-width: 100%;
   display: block;
   height: auto;
